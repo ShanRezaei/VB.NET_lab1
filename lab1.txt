@@ -1,0 +1,84 @@
+Create a project call Llab_1 and create new modules for each of the following (to run each module, simply change the module from the project's properties)
+
+1.  Average
+Ask user to enter 3 numbers
+Display the total of all the numbers entered
+Display the average of all the numbers entered.
+
+--------------------------------------------------
+
+2. Mini Calculator
+Show a menu to the user and ask for to enter a choice from:
+Addition			: A
+Substraction 		: S
+Multiplication		: M
+Whole Division		: WD
+Division			: D
+Modulo				: Mod
+Exponentiel			: Pow
+Exit				: E
+
+Validate the user's choise for the menu
+
+Then ask the user to enter the 1st number
+Validate the user's entry
+
+Then aks the user to enter the 2nd number
+Validate the user's entry
+
+Show the result as followed
+Result:
+number1 (opperation) number2 = (answer)
+
+Then ask the user if finish
+If so 	-> GoodBye
+If not 	-> Restart the whole process.
+
+--------------------------------------------------
+
+3. Mini Cash Registrer
+Show a menu to the user and ask to enter a choice
+Item 1 :	10.99
+Item 2 :	5.66
+Item 3 : 	7.65	
+Item 4 : 	8.64
+Item 5 :	5.00
+Item 6 :	7.20
+Item 7 : 	10.00
+
+Validate the user's choise for the menu
+
+Ask for the quantity
+Validate the user's quantity (between 1-15)
+
+Then Show the total for the given item
+
+Then ask the user is finish
+If so 	-> Show the Grand Total and GoodBye
+If not 	-> Let user choose from the menu of item and the whole process repeates.
+
+-------------------------------------------------
+
+4. a) Christmas Tree
+Ask the user to enter a number
+Create a christmas tree of stars with the given number
+Ex: User enter: 18
+Create this
+
+				*
+               ***
+              *****
+             *******
+	    	**	
+
+
+4. b) If the user enters a number which does not complete the tree, round it to the nearest completion.
+Ex: User enter 5
+The nearest completion is: 4
+Which will give the following:
+
+				*
+               ***
+
+
+ 	
